@@ -232,9 +232,6 @@ Zaker = type=cron,cronexp=55 3 0 * * *,script-path=https://raw.githubusercontent
 # > 楼兰小说论坛 (By @iNotification)
 # 网页登录 www.lltxt.com 点击 ”我的信息 - 签到 - 开始签到“
 楼兰小说 = type=cron,cronexp=0 5 0 * * *,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/loulancheck.js,script-update-interval=0
-# > 招行信用卡(公众号) (By @iNotification)
-# 招商银行信用卡微信公众号：”领cron “0 0 0 * * *” script-path
-招行信用卡(公众号) = type=cron,cronexp=5 5 0 * * *,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/cmbchina.js,script-update-interval=0
 # > 京东成长分 (By @barrymchen)
 # 打开京东金融app，“信用”-》“小白成长分”
 京东成长分 = type=cron,cronexp=10 5 0 * * *,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/jdczf.js,script-update-interval=0
